@@ -28,4 +28,4 @@ PHP, PYTHON, JavaScript, CSS & HTML
 Django, CakePHP
 
 ### DATABASES & TOOLS
-SQL Server, MySQL, MariaDB, MySQL Workbench, Excel, SQL Server Management Studio, Power BI, Tableau
+SQL Server, MySQL, MariaDB, MySQL Workbench, Excel, SQL Server Management Studio, PowerBI,
