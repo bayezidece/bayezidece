@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on Data Mining/Analyst at NovoTel Limited under Routing and Dispute Management Department.
+I'm currently working on Data Analyst at NovoTel Limited under Routing and Dispute Management Department.
 
-I love coding with programming languages LIKE PHP, Python in leisure period
+I love coding with programming languages LIKE Python in leisure period
 
 ### PROGRAMMING SKILLS
-PHP, PYTHON, JavaScript, CSS & HTML
+PYTHON, PHP, JavaScript, CSS & HTML
 
 ### FRAMWORKS
 Django, CakePHP
 
 ### DATABASES & TOOLS
-SQL Server, MySQL, MariaDB, MySQL Workbench, Excel, SQL Server Management Studio, PowerBI,
+SQL Server, PostgreSQL, MySQL, MariaDB, MySQL Workbench, Excel, SQL Server Management Studio, PowerBI,
